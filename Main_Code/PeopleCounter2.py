@@ -18,7 +18,7 @@ cnt_tail = 0
 
 #video source
 #cap = cv.VideoCapture(0)
-cap = cv.VideoCapture('SDVid.mov')
+cap = cv.VideoCapture('Testvideo.mp4')
 #camera = PiCamera()
 ##camera.resolution = (160,120)
 ##camera.framerate = 5
@@ -33,8 +33,8 @@ cap = cv.VideoCapture('SDVid.mov')
 for i in range(19):
     print( i, cap.get(i))
 
-h = 800
-w = 464
+h = 480
+w = 640
 frameArea = h*w
 areaTH = frameArea/250
 print( 'Area Threshold', areaTH)
