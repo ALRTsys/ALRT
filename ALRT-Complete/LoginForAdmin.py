@@ -6,8 +6,8 @@ from flet.auth import user
 
 mydb = mysql.connector.connect(
     host= 'localhost',
-    user= 'root',
-    password= 'Ruba1234',
+    user= 'usually its root but if you changed it, put yours',
+    password= 'put your own password',
     port= '3306',
     database= 'log_in'
 )
