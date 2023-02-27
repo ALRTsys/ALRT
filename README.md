@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/125115519/221497085-9046e582-a2da-4bbe-80b9-3388eb0ed18b.png)
+
+
 ## What is ALRT?
 ALRT is a tailgating and piggybacking detection system that utilizes video analytics to count people 
 using line-crossing detection to detect intrusion attempts that might happen in restricted areas containing assets.
