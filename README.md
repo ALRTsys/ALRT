@@ -60,7 +60,7 @@ by going to file -> settings -> project: ALRT -> Python interpreter -> + than ch
 
 For the mysql-connector-python you need to watch this short video to make sure the connector does work:https://www.youtube.com/watch?v=MhaH7o3lf4E (starts from 4:30 and ends at 12:52).
 
-After installing all the required packages using the terminal in PyCharm write this command and then press return: 
+After installing all the required packages using the terminal in PyCharm write this command and then press enter: 
  
                  Python main.py
 
