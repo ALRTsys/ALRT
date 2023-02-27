@@ -4,7 +4,7 @@ using line-crossing detection to detect intrusion attempts that might happen in 
 
 ## What does ALRT stand for?
 ALRT is a contribution to the project developers. The name does not really mean 
-anything, but it does sound like the word alert, which is a goal of the project as it alerts the CCTV operators of attempted intrusions.
+anything, but it does sound like the word alert, which is a goal of the project as it alerts the CCTV operator of attempted intrusions.
 
 ## ALRT prerequisites
 1- Download Python - https://www.python.org/downloads/
