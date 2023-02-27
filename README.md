@@ -72,7 +72,8 @@ After installing all the required packages using the terminal in PyCharm write t
 
 and just like that, ALRT should start working well with you just as it did with us :).
 
-![2023-02-27 (4)](https://user-images.githubusercontent.com/125115519/221491165-35a01cb1-865d-4452-9a99-81dae2deab08.png)
+![2023-02-27 (4)](https://user-images.githubusercontent.com/125115519/221497323-69040665-3d68-42ef-8654-6167ecf6455d.png)
+
 
 ## ALRT issues
 
